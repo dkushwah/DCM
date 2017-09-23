@@ -1,0 +1,5 @@
+C:\Users\Hackathon\Documents\Visual Studio 2015\Projects\DCM\DCM\DigitalCultivationMart.DAL\obj\Debug\DigitalCultivationMart.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Hackathon\Documents\Visual Studio 2015\Projects\DCM\DCM\DigitalCultivationMart.DAL\bin\Debug\DigitalCultivationMart.DAL.dll
+C:\Users\Hackathon\Documents\Visual Studio 2015\Projects\DCM\DCM\DigitalCultivationMart.DAL\bin\Debug\DigitalCultivationMart.DAL.pdb
+C:\Users\Hackathon\Documents\Visual Studio 2015\Projects\DCM\DCM\DigitalCultivationMart.DAL\obj\Debug\DigitalCultivationMart.DAL.dll
+C:\Users\Hackathon\Documents\Visual Studio 2015\Projects\DCM\DCM\DigitalCultivationMart.DAL\obj\Debug\DigitalCultivationMart.DAL.pdb
