@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalCultivationMart.DAL"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalCultivationMart.BizLayer", "DigitalCultivationMart.BizLayer\DigitalCultivationMart.BizLayer.csproj", "{52F4C738-3C50-4185-98AA-11D4C7D0C6D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalCultivationMart.API", "DigitalCultivationMart.API\DigitalCultivationMart.API.csproj", "{1830A6E6-CD2A-42CA-ABA0-0894547668BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{52F4C738-3C50-4185-98AA-11D4C7D0C6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52F4C738-3C50-4185-98AA-11D4C7D0C6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52F4C738-3C50-4185-98AA-11D4C7D0C6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1830A6E6-CD2A-42CA-ABA0-0894547668BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1830A6E6-CD2A-42CA-ABA0-0894547668BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1830A6E6-CD2A-42CA-ABA0-0894547668BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1830A6E6-CD2A-42CA-ABA0-0894547668BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
