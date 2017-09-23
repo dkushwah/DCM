@@ -1,0 +1,9 @@
+C:\Users\Hackathon\Documents\Visual Studio 2015\Projects\DCM\DCM\DigitalCultivationMart.BizLayer\bin\Debug\DigitalCultivationMart.BizLayer.dll
+C:\Users\Hackathon\Documents\Visual Studio 2015\Projects\DCM\DCM\DigitalCultivationMart.BizLayer\bin\Debug\DigitalCultivationMart.BizLayer.pdb
+C:\Users\Hackathon\Documents\Visual Studio 2015\Projects\DCM\DCM\DigitalCultivationMart.BizLayer\bin\Debug\AutoMapper.dll
+C:\Users\Hackathon\Documents\Visual Studio 2015\Projects\DCM\DCM\DigitalCultivationMart.BizLayer\bin\Debug\DigitalCultivationMart.DAL.dll
+C:\Users\Hackathon\Documents\Visual Studio 2015\Projects\DCM\DCM\DigitalCultivationMart.BizLayer\bin\Debug\DigitalCultivationMart.DAL.pdb
+C:\Users\Hackathon\Documents\Visual Studio 2015\Projects\DCM\DCM\DigitalCultivationMart.BizLayer\bin\Debug\AutoMapper.xml
+C:\Users\Hackathon\Documents\Visual Studio 2015\Projects\DCM\DCM\DigitalCultivationMart.BizLayer\obj\Debug\DigitalCultivationMart.BizLayer.csprojResolveAssemblyReference.cache
+C:\Users\Hackathon\Documents\Visual Studio 2015\Projects\DCM\DCM\DigitalCultivationMart.BizLayer\obj\Debug\DigitalCultivationMart.BizLayer.dll
+C:\Users\Hackathon\Documents\Visual Studio 2015\Projects\DCM\DCM\DigitalCultivationMart.BizLayer\obj\Debug\DigitalCultivationMart.BizLayer.pdb
